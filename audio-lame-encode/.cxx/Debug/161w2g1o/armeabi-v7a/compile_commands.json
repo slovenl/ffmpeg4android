@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/.cxx/Debug/161w2g1o/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_encode_EXPORTS -I../../../../libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/lame-encode.dir/src/main/cpp/lame_encode.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/src/main/cpp/lame_encode.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/src/main/cpp/lame_encode.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/.cxx/Debug/161w2g1o/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlame_encode_EXPORTS -I../../../../libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/lame-encode.dir/src/main/cpp/mp3_encode.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/src/main/cpp/mp3_encode.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/src/main/cpp/mp3_encode.cpp"
+}
+]

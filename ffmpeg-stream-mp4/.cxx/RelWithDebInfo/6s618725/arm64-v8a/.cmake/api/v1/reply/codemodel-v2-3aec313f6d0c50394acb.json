@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "native-stream::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-stream-RelWithDebInfo-95b75fac3224d6f7f1ef.json",
+					"name" : "native-stream",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/RelWithDebInfo/6s618725/arm64-v8a",
+		"source" : "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

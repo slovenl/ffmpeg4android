@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/Debug/5s614s4y/arm64-v8a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_stream_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/common-static/libs/arm64-v8a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-stream.dir/src/main/cpp/native_stream.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/native_stream.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/native_stream.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/Debug/5s614s4y/arm64-v8a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_stream_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/common-static/libs/arm64-v8a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-stream.dir/src/main/cpp/mp4_stream.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/mp4_stream.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/mp4_stream.cpp"
+}
+]

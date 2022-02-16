@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a/CMakeFiles/native-recorder.dir

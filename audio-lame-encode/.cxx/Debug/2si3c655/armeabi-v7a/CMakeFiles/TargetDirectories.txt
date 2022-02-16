@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/.cxx/Debug/2si3c655/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/.cxx/Debug/2si3c655/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-lame-encode/.cxx/Debug/2si3c655/armeabi-v7a/CMakeFiles/lame-encode.dir

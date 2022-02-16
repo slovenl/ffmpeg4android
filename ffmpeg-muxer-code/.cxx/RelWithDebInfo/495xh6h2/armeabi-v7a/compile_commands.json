@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/.cxx/RelWithDebInfo/495xh6h2/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_encode_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O2 -g -DNDEBUG -fPIC -o CMakeFiles/native-encode.dir/src/main/cpp/media_encoder.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/src/main/cpp/media_encoder.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/src/main/cpp/media_encoder.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/.cxx/RelWithDebInfo/495xh6h2/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_encode_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -std=gnu++11 -O2 -g -DNDEBUG -fPIC -o CMakeFiles/native-encode.dir/src/main/cpp/native_code.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/src/main/cpp/native_code.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-muxer-code/src/main/cpp/native_code.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/.cxx/RelWithDebInfo/37331k6p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/.cxx/RelWithDebInfo/37331k6p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/.cxx/RelWithDebInfo/37331k6p/armeabi-v7a/CMakeFiles/ffmpeg-hello.dir

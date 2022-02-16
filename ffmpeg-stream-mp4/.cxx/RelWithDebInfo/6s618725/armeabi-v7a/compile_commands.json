@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/RelWithDebInfo/6s618725/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_stream_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/common-static/libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O2 -g -DNDEBUG -fPIC -o CMakeFiles/native-stream.dir/src/main/cpp/native_stream.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/native_stream.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/native_stream.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/RelWithDebInfo/6s618725/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_stream_EXPORTS -I/Users/smzdm/AndroidStudioProjects/ffmpeg4android/common-static/libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O2 -g -DNDEBUG -fPIC -o CMakeFiles/native-stream.dir/src/main/cpp/mp4_stream.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/mp4_stream.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/src/main/cpp/mp4_stream.cpp"
+}
+]

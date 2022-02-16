@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_recorder_EXPORTS -I../../../../libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-recorder.dir/src/main/cpp/native_audio.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/native_audio.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/native_audio.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_recorder_EXPORTS -I../../../../libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-recorder.dir/src/main/cpp/opensles_recorder.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/opensles_recorder.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/opensles_recorder.cpp"
+},
+{
+  "directory": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/6f556l6l/armeabi-v7a",
+  "command": "/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/smzdm/Library/Android/sdk/ndk/22.0.7026061/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_recorder_EXPORTS -I../../../../libs/armeabi-v7a/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/native-recorder.dir/src/main/cpp/record_buffer.cpp.o -c /Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/record_buffer.cpp",
+  "file": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/src/main/cpp/record_buffer.cpp"
+}
+]

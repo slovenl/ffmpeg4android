@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-swscale/.cxx/RelWithDebInfo/4s3v156q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-swscale/.cxx/RelWithDebInfo/4s3v156q/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-swscale/.cxx/RelWithDebInfo/4s3v156q/armeabi-v7a/CMakeFiles/native-swscale.dir

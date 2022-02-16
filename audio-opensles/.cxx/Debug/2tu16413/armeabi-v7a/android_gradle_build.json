@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/2tu16413/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/.cxx/Debug/2tu16413/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-recorder::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-recorder",
+      "output": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/audio-opensles/build/intermediates/cxx/Debug/2tu16413/obj/armeabi-v7a/libnative-recorder.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

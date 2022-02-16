@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-decode/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-decode/.cxx/Debug/52471n3r/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-decode/.cxx/Debug/52471n3r/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-decode::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-decode",
+      "output": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-decode/build/intermediates/cxx/Debug/52471n3r/obj/armeabi-v7a/libnative-decode.so",
+      "runtimeFiles": [
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single/libs/armeabi-v7a/libffmpeg.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

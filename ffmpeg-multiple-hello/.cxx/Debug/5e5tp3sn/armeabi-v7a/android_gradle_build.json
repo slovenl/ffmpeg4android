@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/.cxx/Debug/5e5tp3sn/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/.cxx/Debug/5e5tp3sn/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ffmpeg-hello::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "ffmpeg-hello",
+      "output": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple-hello/build/intermediates/cxx/Debug/5e5tp3sn/obj/armeabi-v7a/libffmpeg-hello.so",
+      "runtimeFiles": [
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libavcodec.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libavdevice.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libavfilter.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libavformat.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libavutil.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libswscale.so",
+        "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-multiple/libs/armeabi-v7a/libpostproc.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,7 @@
+Executable : /Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/sdl2-hello/.cxx/Debug/5c4m1734/armeabi-v7a
+main
+jvmArgs : 
+

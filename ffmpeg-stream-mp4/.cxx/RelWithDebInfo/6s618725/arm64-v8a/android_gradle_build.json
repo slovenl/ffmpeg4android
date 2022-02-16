@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/RelWithDebInfo/6s618725/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/smzdm/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/.cxx/RelWithDebInfo/6s618725/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-stream::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-stream",
+      "output": "/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-stream-mp4/build/intermediates/cxx/RelWithDebInfo/6s618725/obj/arm64-v8a/libnative-stream.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/smzdm/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

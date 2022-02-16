@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-hello/.cxx/RelWithDebInfo/2f2w462c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-hello/.cxx/RelWithDebInfo/2f2w462c/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-single-hello/.cxx/RelWithDebInfo/2f2w462c/armeabi-v7a/CMakeFiles/ffmpeg-hello.dir

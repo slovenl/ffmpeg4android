@@ -1,0 +1,3 @@
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-audio-encode/.cxx/Debug/3z6a4gr5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-audio-encode/.cxx/Debug/3z6a4gr5/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/smzdm/AndroidStudioProjects/ffmpeg4android/ffmpeg-audio-encode/.cxx/Debug/3z6a4gr5/armeabi-v7a/CMakeFiles/native-encode.dir
